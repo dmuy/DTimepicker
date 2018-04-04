@@ -1,8 +1,8 @@
-#DTimepicker
+# DTimepicker
 
 A simple JQuery timepicker plugin.
 
-##How to use:
+## How to use:
 First put a reference to timepicker.min.js and timepicker.css in your html.
 ```
 <link rel="stylesheet" type="text/css" href="js/timepicker/timepicker.css">
